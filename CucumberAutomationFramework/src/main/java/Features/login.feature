@@ -20,5 +20,5 @@ Feature: Flipkart login feature
      And Close the browser
     Examples:
     |username|password|
-    |9285547197   | Swati@120   |
+    |9285547197   | Test@120   |
     |9527272171  |    Swati     |
